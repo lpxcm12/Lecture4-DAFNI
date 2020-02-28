@@ -1,8 +1,7 @@
 # Lecture4-DAFNI
-Notes from lecture 4 of Data Analysis for Neuroimaging
 
-## fplan for later
+Using **github** we can share code and files across *many different people* without needing to email consistently. If we make a mistake we can always ~~cross it out~~ particularly if the text is **extremely _important_**
 
-- creation of 'repo'
-- edit a MD file stands for Mark Down
+We can also do quotes
+> like this
 
