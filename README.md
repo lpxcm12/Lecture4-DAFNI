@@ -5,3 +5,8 @@ Using **github** we can share code and files across *many different people* with
 We can also do quotes
 > like this
 
+You can also do tick lists to keep up with a 'To do' list
+
+- [x] Go to lecture
+- [] down coffee
+- [] put a wash on
