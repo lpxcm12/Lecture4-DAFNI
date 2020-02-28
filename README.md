@@ -8,5 +8,5 @@ We can also do quotes
 You can also do tick lists to keep up with a 'To do' list
 
 - [x] Go to lecture
-- [] down coffee
-- [] put a wash on
+- [ ] down coffee
+- [ ] put a wash on
